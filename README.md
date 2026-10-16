@@ -1,2 +1,2 @@
-# gallery-reborn-releases
+# photo-albums releases
 تطبيق معرضي: بديل خفيف وسريع لمعرض الصور الافتراضي.
